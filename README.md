@@ -1,5 +1,6 @@
 # Calculadora IMC 
 Aplicativo de funcionalidade simples, com várias telas e com um estilo totalmente personalizado.<br />
+Treinamento feito atravéz do canal no YouTube Polimorfismo.<br />
 <br />
 Tópicos:<br />
 Personalizar os Widgets Flutter.<br />
